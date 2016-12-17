@@ -8,3 +8,4 @@
 | 鹄思乱想 | 北京 | ThinkInCrowd | thinkingincrowd | chengusky 爱 gmail | kenspirit | Node.js | AngularJS, Vue.js, Bootstrap, jQ |
 | Zion | Houston | zion-upgrade | zion_w | learnor 哎吆 gmail | learnor | | Ruby on Rails |
 | 择动 | 长春 | colo-zedong | zedong | lycczzd 也是 gmail | zhang-zedong | | Java, Rails |
+| kangaroo | 上海 | kangaroo1411 | kangaroo | kangaroo1411 在 gmail | kangaroo1411 | |  |
